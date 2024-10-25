@@ -3,6 +3,8 @@
 html {
     font-family: Helvetica, Arial, sans-serif;
     font-size: 10px;
+    background-color: #222222;
+    color: #88DDf2 
   }
 
   h2 {
@@ -35,7 +37,7 @@ html {
   /* Ordered list styles */
 
   ol {
-    list-style-type: upper-roman;
+    list-style-type: lower-roman;
   }
 
   /* Description list styles */
@@ -47,3 +49,24 @@ html {
   dt {
     font-weight: bold;
   }
+
+  div{
+    padding: 1%;
+    margin: 20px;
+    width: 650px;
+  }
+
+#recipe{
+    border: 1px solid #88DDf2;
+    float: left
+}
+
+#ingredients{
+    border: 1px solid #88DDf2;
+    float: left
+}
+
+#shoppinglist{
+    border: 1px solid #88DDf2;
+    float: left
+}
