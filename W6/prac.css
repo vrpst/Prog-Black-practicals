@@ -1,0 +1,15 @@
+.content{
+    max-width: fit-content;
+    margin-inline: auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    padding-top: 10px
+}
+
+#button{
+    margin-inline: auto;
+    background-color: cadetblue;
+    border: 2px solid black;
+    height: 50px;
+    width: 200px;
+    
+}
